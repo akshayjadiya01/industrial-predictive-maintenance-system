@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.csv
+.venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+models/*.pkl
