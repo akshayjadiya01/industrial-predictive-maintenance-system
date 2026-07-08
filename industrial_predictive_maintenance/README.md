@@ -188,7 +188,7 @@ For production, replace the default credentials with your own secure values.
 - Automated retraining pipelines
 
 ## 👤 Author
-Built by Akshat Kumar
+Built by Akshay Jadiya
 
 ## 📬 Contact
 - Email: [akshayjadiya15@gmail.com](mailto:akshayjadiya15@gmail.com)
