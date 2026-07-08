@@ -16,6 +16,16 @@ A premium AI-powered platform for predicting machine failures, monitoring operat
   Experience the Industrial Predictive Maintenance System in real time.
 </p>
 
+## 🔐 Demo Login Credentials
+
+Use the following credentials to access the application:
+
+| Username | Password |
+|-----------|-----------|
+| admin | industrial2026 |
+
+> Note: These credentials are for demonstration purposes only.
+
 ## ✨ Features
 - Predict equipment failure probability in real time
 - Interactive Streamlit dashboard with multiple operational views
