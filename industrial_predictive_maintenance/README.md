@@ -7,7 +7,7 @@ A premium AI-powered platform for predicting machine failures, monitoring operat
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="(https://industrial-predictive-maintenance-system-fahbyezfkktsbeuzponhv.streamlit.app)" target="_blank">
+  <a href="https://industrial-predictive-maintenance-system-fahbyezfkktsbeuzponhv.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
