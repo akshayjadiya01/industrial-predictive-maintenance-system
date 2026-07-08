@@ -4,6 +4,18 @@
 
 A premium AI-powered platform for predicting machine failures, monitoring operational health, and recommending maintenance actions using industrial sensor data.
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="(https://industrial-predictive-maintenance-system-fahbyezfkktsbeuzponhv.streamlit.app)" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  Experience the Industrial Predictive Maintenance System in real time.
+</p>
+
 ## ✨ Features
 - Predict equipment failure probability in real time
 - Interactive Streamlit dashboard with multiple operational views
