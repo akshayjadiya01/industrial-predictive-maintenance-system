@@ -191,6 +191,6 @@ For production, replace the default credentials with your own secure values.
 Built by Akshat Kumar
 
 ## 📬 Contact
-- Email: [akshayjadiya15@gmail.com](akshayjadiya15@gmail.com)
+- Email: [akshayjadiya15@gmail.com](mailto:akshayjadiya15@gmail.com)
 - GitHub: [https://github.com/akshayjadiya01](https://github.com/akshayjadiya01)
 - LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/akshayjadiya15/)
