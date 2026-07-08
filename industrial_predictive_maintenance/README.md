@@ -192,5 +192,5 @@ Built by Akshat Kumar
 
 ## 📬 Contact
 - Email: [akshayjadiya15@gmail.com](akshayjadiya15@gmail.com)
-- GitHub: [https://github.com/akshayjadiya15](https://github.com/akshayjadiya15)
+- GitHub: [https://github.com/akshayjadiya01](https://github.com/akshayjadiya01)
 - LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/akshayjadiya15/)
