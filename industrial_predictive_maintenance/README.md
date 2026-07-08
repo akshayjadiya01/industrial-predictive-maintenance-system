@@ -22,8 +22,9 @@ A premium AI-powered platform for predicting machine failures, monitoring operat
 
 > Add your screenshots to the repository and replace the placeholders below when you are ready.
 >
-> ![Dashboard Overview](docs/screenshots/overview.png)
-> ![Prediction Panel](docs/screenshots/prediction.png)
+> !<img width="1835" height="845" alt="Screenshot 2026-07-08 151732" src="https://github.com/user-attachments/assets/6657f4d1-d01d-420d-83d6-1be564e606f0" />
+> !<img width="1850" height="892" alt="image" src="https://github.com/user-attachments/assets/dacd9c49-86b0-4ef1-b075-32febe9b7139" />
+
 
 ## 🏗️ Architecture Diagram
 
